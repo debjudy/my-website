@@ -6,7 +6,4 @@ New change
 
 ## purpose
 
-## repository purpose
-
-This will conflict with change from remote
-this was edited locally
+Playing with tags now and will move tag forward
